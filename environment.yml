@@ -7,4 +7,5 @@ dependencies:
   - xtensor-blas=0.19.0
   - notebook
   - matplotlib
+  - vpython=7.6.1
   
